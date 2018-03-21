@@ -4,7 +4,7 @@ var a=function* add(){
        yield console.log(i);
 
     }
-conole.log("helo git");
+console.log("helo git");
 
     }
 a.nxt();
